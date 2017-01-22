@@ -15,13 +15,13 @@ The player must control the amplitude and frequency to match incoming projectile
 
 ##Controls
 
-**Left Arrow**  - Decrease frequency
+Left Arrow  - Decrease frequency
 
-**Right Arrow **- Increase frequency
+Right Arrow - Increase frequency
 
-**Down Arrow**  - Decrease amplitude
+Down Arrow  - Decrease amplitude
 
-**Up Arrow **   - Increase amplitude
+Up Arrow   - Increase amplitude
 
 ##How to build
 
