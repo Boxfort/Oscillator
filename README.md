@@ -13,6 +13,8 @@ The player must control the amplitude and frequency to match incoming projectile
 ![alt text](http://i.imgur.com/fGRhWUe.png "Gameplay")
 ![alt text](http://i.imgur.com/XXesiwU.png "Leaderboard")
 
+https://www.youtube.com/watch?v=GfTGXv5hSo8
+
 ##Controls
 
 Left Arrow  - Decrease frequency
